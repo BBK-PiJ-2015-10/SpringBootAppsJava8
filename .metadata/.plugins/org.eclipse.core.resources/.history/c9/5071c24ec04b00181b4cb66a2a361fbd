@@ -1,0 +1,12 @@
+package spring.consumer.rest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringConsumerRestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringConsumerRestApplication.class, args);
+	}
+}

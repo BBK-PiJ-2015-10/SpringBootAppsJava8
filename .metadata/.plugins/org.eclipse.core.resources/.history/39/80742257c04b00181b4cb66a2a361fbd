@@ -1,0 +1,5 @@
+package spring.consumer.rest;
+
+public class Quote {
+
+}
