@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.boot.web.server.LocalServerPort"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="org.springframework.boot.test.web.client.TestRestTemplate"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest.WebEnvironment"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.JobBuilderFactory"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.StepBuilderFactory"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.Step"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.step.tasklet.Tasklet"/>
+<fullyQualifiedTypeName name="org.springframework.batch.repeat.RepeatStatus"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.launch.support.RunIdIncrementer"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.DefaultBatchConfigurer"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.EnableBatchProcessing"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.ItemProcessor"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.database.BeanPropertyItemSqlParameterSourceProvider"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.database.JdbcBatchItemWriter"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.file.FlatFileItemReader"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.file.mapping.BeanWrapperFieldSetMapper"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.file.mapping.DefaultLineMapper"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.file.transform.DelimitedLineTokenizer"/>
+<fullyQualifiedTypeName name="org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="java.util.logging.Level"/>
+<fullyQualifiedTypeName name="org.springframework.security.provisioning.InMemoryUserDetailsManager"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

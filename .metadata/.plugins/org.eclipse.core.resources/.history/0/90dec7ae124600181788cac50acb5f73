@@ -1,0 +1,29 @@
+
+public class PalindromeService {
+	
+	
+	public boolean isPalindrome(String word){
+		if (word== null || word.isEmpty()){
+			return false;
+		}
+		if (word.length() == 1){
+			return true;
+		}
+		return isPalindrome(word,0,word.length());
+		
+	}
+	
+	private boolean isPalindrome(String word, int beg, int end){
+		
+		if (! (word.charAt(beg) == word.charAt(end))){
+			return false;
+		}
+		if (end-beg>=1){
+			return isPalindrome(word,beg+1,end-1);
+		}
+		return false;
+	}
+	
+	
+
+}
