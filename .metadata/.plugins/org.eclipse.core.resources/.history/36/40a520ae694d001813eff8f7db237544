@@ -1,0 +1,5 @@
+package com.palacios.spring.mvc;
+
+public class GreetingController {
+
+}
